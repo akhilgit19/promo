@@ -1,0 +1,6 @@
+    alertmanagerConfigMatcherStrategy:
+      type: None
+
+    alertmanagerConfigSelector:
+      matchLabels:
+        release: prometheus
